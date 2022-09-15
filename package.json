@@ -1,0 +1,13 @@
+{
+  "name": "index_repro",
+  "type": "module",
+  "scripts": {
+},
+  "main": "lib/index.js",
+  "dependencies": {
+    "faunadb": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.18"
+  }
+}
