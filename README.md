@@ -1,4 +1,4 @@
-***Lightweight testing setup for fauna***
+***Understanding limitations of UDF's with `faunadb-js`***
 
 **Instructions:**
 
